@@ -21,11 +21,19 @@ http://localhost:8080/api/v1/beers
 ```
 
 <h3>Requisitos</h3>
-* Java 14 ou versões superiores.
-* Maven 3.6.3 ou versões superiores.
-* Intellj IDEA Community Edition ou sua IDE favorita.
-* Controle de versão GIT instalado na sua máquina.
 
+- Java 14 ou versões superiores.
 
+- Maven 3.6.3 ou versões superiores.
+ 
+- Intellj IDEA Community Edition ou sua IDE favorita.
+
+- Controle de versão GIT instalado na sua máquina.
+
+<h6>GitHub do instrutor</h6>
+https://github.com/rpeleias
+  
+<h6>Site da DIO</h6>
+https://digitalinnovation.one/  
 
 
